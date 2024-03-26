@@ -1,4 +1,4 @@
-# Wormhole Scaffolding
+# Wormhole Scaffolding (Training)
 
 This repository warehouses apps that integrate with Wormhole generic messaging and existing apps that use Wormhole message passing. These apps range in complexity and demonstrate how to organize your business logic in your smart contracts. These examples show the basic structure of an xdapp and how the wormhole works with the respective programming environment.
 Example repos also include tests to debug and deploy the dapps in local environment. 
